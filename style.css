@@ -1,0 +1,60 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-content .title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.header-content .paragraph {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-content button {
+    background-color: #3882F6;
+}
+
+.body .body-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+}
+
+.quote-container .quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.signup-container {
+    background-color: #3882F6;
+}
+
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
